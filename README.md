@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Tisha Mittal, once a Head Girl, now a badass.
 
 <!--
 **Tisha-Mittal/Tisha-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

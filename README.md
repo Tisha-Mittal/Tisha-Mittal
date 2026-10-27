@@ -1,50 +1,59 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:9B5DE5,50:F15BB5,100:FEE440&text=Tisha%20Mittal&fontSize=55&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Developer%20%7C%20AI%2FML%20Explorer&descAlignY=68&descSize=18" width="100%" alt="Tisha Mittal profile banner"/>
+# 🌸 TISHA MITTAL 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=700&color=CB8AFF&center=true&vCenter=true&width=550&lines=Hello%2C+welcome+to+my+GitHub!+%F0%9F%8C%B8;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Animated introduction"/>
+### 💜 Computer Science Student | Developer | AI/ML Explorer
 
-<br/>
+*Creating, learning, and turning ideas into code.* ✨
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-9B5DE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal)
-[![Profile Views](https://komarev.com/ghpvc/?username=Tisha-Mittal&style=for-the-badge&color=F15BB5&label=PROFILE+VIEWS)](https://github.com/Tisha-Mittal)
+[![GitHub](https://img.shields.io/badge/GitHub-Tisha--Mittal-9B5DE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal)
 
 </div>
 
 ---
 
-## 💜 A Little About Me
+## 🌷 About Me
 
-🎓 Computer Science Engineering student specialising in AI & ML
-
-💻 Exploring programming, software development, and AI/ML
-
-🌱 Learning by building projects and experimenting with new ideas
-
-🎨 I love combining creativity with technology
-
-🧘 National-level yoga player
+- 🎓 Computer Science Engineering student specialising in AI & ML
+- 💻 Exploring software development and artificial intelligence
+- 🚀 Learning by building real projects
+- 🎨 I love combining creativity with technology
+- 🧘 National-level yoga player
 
 ---
 
-## ✨ Languages & Technologies
+## 💻 Languages & Tech Stack
 
 <div align="center">
 
-### 💻 My Languages
+### ✨ Programming & Web Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=dark" alt="Python, C, Java, JavaScript, HTML and CSS icons"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,numpy,pandas&theme=dark" alt="Git, GitHub, VS Code, Linux, MySQL, NumPy and Pandas icons"/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects I've Built
+## 🚀 Things I've Built
 
 <table>
 <tr>
@@ -52,14 +61,14 @@
 
 ### 🛍️ Zyra Fashion
 
-A fashion e-commerce website built with HTML, CSS and JavaScript.
+A fashion e-commerce website built using HTML, CSS and JavaScript.
 
 </td>
 <td width="50%">
 
 ### 🎮 Focus Royale
 
-An interactive game project built using web technologies.
+An interactive game project built with web technologies.
 
 </td>
 </tr>
@@ -68,14 +77,14 @@ An interactive game project built using web technologies.
 
 ### 💰 Student Expense Tracker
 
-A collaborative project focused on budgets, expenses and financial insights.
+A collaborative project focused on budgeting and expense tracking.
 
 </td>
 <td width="50%">
 
 ### 📄 Document Summarizer
 
-A Python project exploring text summarisation using NLP techniques.
+A Python project exploring automatic text summarisation.
 
 </td>
 </tr>
@@ -83,50 +92,35 @@ A Python project exploring text summarisation using NLP techniques.
 
 <div align="center">
 
-[![Explore Projects](https://img.shields.io/badge/Explore%20My%20Repositories-BD93F9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal?tab=repositories)
+[![Explore My Projects](https://img.shields.io/badge/Explore%20My%20Projects-C084FC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal?tab=repositories)
 
 </div>
 
 ---
 
-## 📚 Certifications
+## 📜 Certifications
 
-- Microsoft Azure AI Fundamentals — AI-900
-- Microsoft Azure Fundamentals
-- Python Fundamentals — Infosys
-- HTML5 — The Language — Infosys
-- Cybersecurity for Everyone — University of Maryland, Coursera
+- ☁️ Microsoft Azure AI Fundamentals (AI-900)
+- ☁️ Microsoft Azure Fundamentals
+- 🐍 Python Fundamentals — Infosys
+- 🌐 HTML5 – The Language — Infosys
+- 🔐 Cybersecurity for Everyone — University of Maryland, Coursera
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
 - Java and Data Structures & Algorithms
 - Python and text processing
 - Artificial Intelligence and Machine Learning
 - React.js and modern web development
-- Linux and development tools
-
----
-
-## 📊 My GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tisha-Mittal&show_icons=true&hide_border=true&bg_color=1B1630&title_color=E0AAFF&text_color=F3E8FF&icon_color=FF8FAB&ring_color=F15BB5" width="100%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Mittal&layout=compact&hide_border=true&bg_color=1B1630&title_color=E0AAFF&text_color=F3E8FF" width="100%" alt="Most used programming languages"/>
-
-</div>
 
 ---
 
 <div align="center">
 
-### 🌷 Thanks for visiting my corner of GitHub!
+### 💗 Thanks for visiting my little corner of GitHub!
 
-**Keep learning. Keep creating. Keep growing.** 💗
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,50:9B5DE5,100:5A189A&height=100&section=footer" width="100%" alt="Purple and pink footer"/>
+*Dream big. Build consistently. Keep growing.* 🌷
 
 </div>

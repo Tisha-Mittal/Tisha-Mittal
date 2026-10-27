@@ -1,11 +1,13 @@
 
 <div align="center">
 
-# 🌸 TISHA MITTAL 🌸
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,50:E0AAFF,100:F15BB5&height=180&section=header&text=Tisha%20Mittal&fontSize=50&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Developer%20%7C%20AI%2FML%20Explorer&descSize=17&descAlignY=62" width="100%" alt="Tisha Mittal purple pink animated header"/>
 
-### 💜 Computer Science Student | Developer | AI/ML Explorer
+# 🌸 Hey, I'm Tisha! 💜
 
-*Creating, learning, and turning ideas into code.* ✨
+### 💻 Computer Science Student | Developer | AI/ML Explorer
+
+*Turning ideas into code, one project at a time.* ✨
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tisha--Mittal-9B5DE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal)
 
@@ -20,21 +22,22 @@
 - 🚀 Learning by building real projects
 - 🎨 I love combining creativity with technology
 - 🧘 National-level yoga player
+- ✨ Always curious, always learning!
 
 ---
 
-## 💻 Languages & Tech Stack
+## 💜 Languages & Tech Stack
 
 <div align="center">
 
-### ✨ Programming & Web Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/>
+### 🎨 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -77,7 +80,7 @@ An interactive game project built with web technologies.
 
 ### 💰 Student Expense Tracker
 
-A collaborative project focused on budgeting and expense tracking.
+A collaborative project focused on budgeting, expenses and financial insights.
 
 </td>
 <td width="50%">
@@ -108,12 +111,13 @@ A Python project exploring automatic text summarisation.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Java and Data Structures & Algorithms
-- Python and text processing
-- Artificial Intelligence and Machine Learning
-- React.js and modern web development
+- ☕ Java and Data Structures & Algorithms
+- 🐍 Python and text processing
+- 🧠 Artificial Intelligence and Machine Learning
+- ⚛️ React.js and modern web development
+- 🐧 Linux and development tools
 
 ---
 
@@ -122,5 +126,7 @@ A Python project exploring automatic text summarisation.
 ### 💗 Thanks for visiting my little corner of GitHub!
 
 *Dream big. Build consistently. Keep growing.* 🌷
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,50:E0AAFF,100:9B5DE5&height=100&section=footer" width="100%" alt="Purple pink wave footer"/>
 
 </div>

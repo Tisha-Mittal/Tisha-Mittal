@@ -1,79 +1,97 @@
 
 <div align="center">
 
-# 🌷 Hey, I'm Tisha! 💜
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:9B5DE5,50:F15BB5,100:FEE440&text=Tisha%20Mittal&fontSize=55&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Developer%20%7C%20AI%2FML%20Explorer&descAlignY=68&descSize=18" width="100%" alt="Tisha Mittal profile banner"/>
 
-### 💻 Developer in Progress | AI/ML Explorer | Creative Thinker
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=700&color=CB8AFF&center=true&vCenter=true&width=550&lines=Hello%2C+welcome+to+my+GitHub!+%F0%9F%8C%B8;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Animated introduction"/>
 
-*Building ideas, learning every day, and adding a little creativity to code.* ✨
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+JavaScript;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+projects+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%8C%B8" alt="Typing SVG" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Tisha--Mittal-9B7EDC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-9B5DE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tisha-Mittal&style=for-the-badge&color=F15BB5&label=PROFILE+VIEWS)](https://github.com/Tisha-Mittal)
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 💜 A Little About Me
 
-- 🎓 Computer Science student specialising in AI & ML
-- 💻 Interested in software development, Python, and artificial intelligence
-- 🚀 Learning by building real projects
-- 🎨 I love making projects functional and visually appealing
-- 🧘 National-level yoga player
-- ✨ My goal: keep learning, keep building, and keep growing!
+🎓 Computer Science Engineering student specialising in AI & ML
 
----
+💻 Exploring programming, software development, and AI/ML
 
-## 💻 My Tech Stack
+🌱 Learning by building projects and experimenting with new ideas
 
-### 🌷 Programming Languages
+🎨 I love combining creativity with technology
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🎨 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🧠 Data & Databases
-
-![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🧘 National-level yoga player
 
 ---
 
-## 🚀 Featured Projects
+## ✨ Languages & Technologies
+
+<div align="center">
+
+### 💻 My Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=dark" alt="Python, C, Java, JavaScript, HTML and CSS icons"/>
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,numpy,pandas&theme=dark" alt="Git, GitHub, VS Code, Linux, MySQL, NumPy and Pandas icons"/>
+
+</div>
+
+---
+
+## 🚀 Projects I've Built
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🛍️ Zyra Fashion
-A fashion e-commerce website built using HTML, CSS, and JavaScript.
+
+A fashion e-commerce website built with HTML, CSS and JavaScript.
+
+</td>
+<td width="50%">
 
 ### 🎮 Focus Royale
+
 An interactive game project built using web technologies.
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 💰 Student Expense Tracker
-A collaborative project focused on expense tracking, budgeting, and financial insights.
+
+A collaborative project focused on budgets, expenses and financial insights.
+
+</td>
+<td width="50%">
 
 ### 📄 Document Summarizer
-A Python project that explores automatic text summarization.
+
+A Python project exploring text summarisation using NLP techniques.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Explore Projects](https://img.shields.io/badge/Explore%20My%20Repositories-BD93F9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal?tab=repositories)
+
+</div>
 
 ---
 
-## 📜 Certifications
+## 📚 Certifications
 
-- Microsoft Azure AI Fundamentals (AI-900)
+- Microsoft Azure AI Fundamentals — AI-900
 - Microsoft Azure Fundamentals
 - Python Fundamentals — Infosys
 - HTML5 — The Language — Infosys
@@ -81,22 +99,23 @@ A Python project that explores automatic text summarization.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 - Java and Data Structures & Algorithms
 - Python and text processing
-- React.js
 - Artificial Intelligence and Machine Learning
+- React.js and modern web development
+- Linux and development tools
 
 ---
 
-## 📊 My GitHub Journey
+## 📊 My GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tisha-Mittal&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=F9A8D4)
+<img src="https://github-readme-stats.vercel.app/api?username=Tisha-Mittal&show_icons=true&hide_border=true&bg_color=1B1630&title_color=E0AAFF&text_color=F3E8FF&icon_color=FF8FAB&ring_color=F15BB5" width="100%" alt="GitHub statistics"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Mittal&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha-Mittal&layout=compact&hide_border=true&bg_color=1B1630&title_color=E0AAFF&text_color=F3E8FF" width="100%" alt="Most used programming languages"/>
 
 </div>
 
@@ -104,8 +123,10 @@ A Python project that explores automatic text summarization.
 
 <div align="center">
 
-### 💜 Thanks for stopping by! 🌷
+### 🌷 Thanks for visiting my corner of GitHub!
 
-*Dream big. Build consistently. Keep growing.* ✨
+**Keep learning. Keep creating. Keep growing.** 💗
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,50:9B5DE5,100:5A189A&height=100&section=footer" width="100%" alt="Purple and pink footer"/>
 
 </div>

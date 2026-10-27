@@ -21,7 +21,6 @@
 - 💻 Exploring software development and artificial intelligence
 - 🚀 Learning by building real projects
 - 🎨 I love combining creativity with technology
-- 🧘 National-level yoga player
 - ✨ Always curious, always learning!
 
 ---

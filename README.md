@@ -104,6 +104,7 @@ A Python project exploring automatic text summarisation.
 
 - ☁️ Microsoft Azure AI Fundamentals (AI-900)
 - ☁️ Microsoft Azure Fundamentals
+- ☁️ Microsoft Azure (DP-900)
 - 🐍 Python Fundamentals — Infosys
 - 🌐 HTML5 – The Language — Infosys
 - 🔐 Cybersecurity for Everyone — University of Maryland, Coursera

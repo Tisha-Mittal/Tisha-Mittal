@@ -1,123 +1,152 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:C77DFF,100:F15BB5&height=190&section=header&text=Tisha%20Mittal&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Software%20Development&descSize=16&descAlignY=60" width="100%" alt="Tisha Mittal GitHub profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,25:9D4EDD,55:C77DFF,80:FFAFCC,100:FFC8DD&height=210&section=header&text=Tisha%20Mittal&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Software%20Development&descSize=16&descAlignY=60" width="100%" alt="Tisha Mittal profile banner"/>
 
-# Tisha Mittal
+<br/>
+
+# 💜 Hello, I'm Tisha!
 
 ### Computer Science Student | AI & ML Enthusiast | Developer
 
-*Exploring technology, solving problems, and building with purpose.*
+*Exploring technology, solving problems, and creating with purpose.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tisha--Mittal-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal)
+<br/>
+
+<a href="https://github.com/Tisha-Mittal">
+<img src="https://img.shields.io/badge/GitHub-Tisha--Mittal-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Always-Learning-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Driven%20by-Curiosity-9370DB?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## About Me
+<h2 align="center">🌷 About Me</h2>
 
-I am a Computer Science Engineering student specialising in Artificial Intelligence and Machine Learning, with a strong interest in software development, emerging technologies, and practical problem-solving.
+I am a Computer Science Engineering student specialising in Artificial Intelligence and Machine Learning, with a keen interest in software development, emerging technologies, and practical problem-solving.
 
 I enjoy exploring new technologies, strengthening my programming fundamentals, and applying what I learn through hands-on experiences.
 
 - 🎓 Pursuing B.Tech in Computer Science Engineering (AI & ML).
 - 💻 Interested in software development, AI/ML, and intelligent applications.
-- 🧠 Continuously developing my problem-solving and analytical skills.
-- 🚀 Interested in building technology-driven solutions to real-world problems.
-- 🤝 Value collaboration, leadership, and continuous learning.
+- 🧠 Developing my analytical thinking and problem-solving skills.
+- 🚀 Exploring ways to turn ideas into practical technology solutions.
+- 🤝 Enjoy collaborating, learning, and taking initiative.
 
 ---
 
-## Technical Skills
+<h2 align="center">🎨 Technical Skills</h2>
 
 <div align="center">
 
-**Programming Languages**
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=light" />
 
-**Web Technologies**
+### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css&theme=light" />
 
-**Tools & Technologies**
+### 🛠️ Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,numpy,pandas&theme=light" />
 
 </div>
 
 ---
 
-## Areas of Interest
+<h2 align="center">🦋 Areas of Interest</h2>
 
-- **Artificial Intelligence & Machine Learning** — Exploring intelligent systems and practical AI applications.
-- **Software Development** — Strengthening programming fundamentals and application development skills.
-- **Data Structures & Algorithms** — Developing logical thinking and efficient problem-solving approaches.
-- **Web Development** — Exploring frontend technologies and full-stack development.
-- **Data Analysis** — Working with Python libraries for data manipulation and analysis.
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>💜 Artificial Intelligence</h3>
+Exploring Machine Learning, intelligent applications and practical AI solutions.
+</td>
+<td align="center" width="50%">
+<h3>💗 Software Development</h3>
+Building programming foundations and exploring application development.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>💙 Data Structures & Algorithms</h3>
+Developing logical thinking and efficient problem-solving approaches.
+</td>
+<td align="center" width="50%">
+<h3>💜 Web Development</h3>
+Exploring frontend technologies, React and full-stack development.
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## Experience & Leadership
+<h2 align="center">🌸 Experience & Leadership</h2>
 
 - **Entrepreneurship:** Founded and manage *Assignment Aisle*, an academic project and assignment venture, with 100+ assignments and projects delivered.
 - **Student Leadership:** Served as School Girls Captain and Sports Captain, contributing to student coordination and school activities.
-- **Technical Communities:** Involved in student technology clubs and organising teams, supporting collaborative learning and event initiatives.
+- **Technical Communities:** Involved in student technology clubs and organising teams, supporting collaborative learning and technical initiatives.
 - **Hackathons:** Participated in collaborative hackathon environments, developing ideas and working on technology-driven solutions under time constraints.
 
 ---
 
-## Achievements
-
-- 🏆 Represented Haryana at a national-level Yoga competition in 2024.
-- 🥇 Secured 2 Gold and 2 Silver medals at state-level Yoga competitions.
-- 🏅 Earned 4 medals at district-level Yoga competitions.
-- 🌟 Recognised as *Ms. DAV* in Class XII and *Ms. Charming* in Class X.
-
----
-
-## Certifications
-
-- Microsoft Azure AI Fundamentals — AI-900
-- Microsoft Azure Fundamentals — AZ-900
-- Microsoft Azure Data Fundamentals — DP-900
-- Cybersecurity for Everyone — University of Maryland, Coursera
-- Python Fundamentals — Infosys
-- HTML5 – The Language — Infosys
-
----
-
-## Currently Learning
-
-- Java and Data Structures & Algorithms
-- Python and applied Machine Learning
-- React.js and full-stack development
-- Database management and cloud technologies
-- Practical applications of Artificial Intelligence
-
----
-
-## Let's Connect
-
-I'm interested in connecting with fellow developers, exploring collaborative opportunities, and learning from people working across technology and innovation.
+<h2 align="center">📜 Certifications</h2>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tisha-Mittal)
+| Certification | Platform |
+|:---|:---|
+| ☁️ Azure AI Fundamentals (AI-900) | Microsoft |
+| ☁️ Azure Fundamentals (AZ-900) | Microsoft |
+| ☁️ Azure Data Fundamentals (DP-900) | Microsoft |
+| 🔐 Cybersecurity for Everyone | University of Maryland — Coursera |
+| 🐍 Python Fundamentals | Infosys |
+| 🌐 HTML5 – The Language | Infosys |
+
+</div>
+
+---
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java%20%26%20DSA-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-C77DFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloud%20Technologies-FF69B4?style=flat-square"/>
+
+<br/><br/>
+
+*Learning continuously, experimenting fearlessly, and growing one step at a time.*
+
+</div>
+
+---
+
+<h2 align="center">💌 Let's Connect</h2>
+
+<div align="center">
+
+I'm always interested in connecting with fellow developers, exploring new ideas, and collaborating on meaningful technology initiatives.
 
 <br/>
 
-*Curiosity drives learning. Consistency turns it into progress.*
+<a href="https://github.com/Tisha-Mittal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,50:C77DFF,100:7B2CBF&height=110&section=footer" width="100%" alt="Purple pink footer"/>
+<br/><br/>
+
+**✨ Curiosity drives innovation. Consistency creates progress. ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,25:FFAFCC,55:C77DFF,80:9D4EDD,100:6A00F4&height=130&section=footer" width="100%" alt="Lavender pink footer banner"/>
 
 </div>

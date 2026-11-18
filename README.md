@@ -1,4 +1,5 @@
- <div align="center">
+ 
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,25:9D4EDD,55:C77DFF,80:FFAFCC,100:FFC8DD&height=210&section=header&text=Tisha%20Mittal&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Software%20Development&descSize=16&descAlignY=60" width="100%" alt="Tisha Mittal profile banner"/>
 
@@ -9,8 +10,6 @@
 ### Computer Science Student | AI & ML Enthusiast | Developer
 
 *Exploring technology, solving problems, and creating with purpose.*
-
-<br/>
 
 <a href="https://github.com/Tisha-Mittal">
 <img src="https://img.shields.io/badge/GitHub-Tisha--Mittal-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
@@ -42,15 +41,31 @@ I enjoy exploring new technologies, strengthening my programming fundamentals, a
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=light" />
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
 
-### 🛠️ Tools & Technologies
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,numpy,pandas&theme=light" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=light" />
+
+### 🗄️ Databases & Backend Services
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=light" />
+
+### ☁️ Cloud & Microsoft Technologies
+
+<img src="https://skillicons.dev/icons?i=azure&theme=light" />
+
+### 📊 Data Science & Libraries
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=light" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=light" />
 
 </div>
 
@@ -78,7 +93,7 @@ Developing logical thinking and efficient problem-solving approaches.
 </td>
 <td align="center" width="50%">
 <h3>💜 Web Development</h3>
-Exploring frontend technologies, React and full-stack development.
+Exploring frontend technologies, React, Node.js and full-stack development.
 </td>
 </tr>
 </table>
@@ -121,7 +136,10 @@ Exploring frontend technologies, React and full-stack development.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-C77DFF?style=flat-square"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cloud%20Technologies-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <br/><br/>
 

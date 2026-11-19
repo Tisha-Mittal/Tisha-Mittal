@@ -1,9 +1,8 @@
- 
-<div align="center">
+&#x20;\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,25:9D4EDD,55:C77DFF,80:FFAFCC,100:FFC8DD&height=210&section=header&text=Tisha%20Mittal&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Software%20Development&descSize=16&descAlignY=60" width="100%" alt="Tisha Mittal profile banner"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,25:9D4EDD,55\:C77DFF,80\:FFAFCC,100\:FFC8DD&height=210&section=header&text=Tisha%20Mittal&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Software%20Development&descSize=16&descAlignY=60](https://capsule-render.vercel.app/api?type=waving\&color=0:6A00F4,25:9D4EDD,55\:C77DFF,80\:FFAFCC,100\:FFC8DD\&height=210\&section=header\&text=Tisha%20Mittal\&fontSize=58\&fontColor=FFFFFF\&fontAlignY=38\&animation=fadeIn\&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Software%20Development\&descSize=16\&descAlignY=60)" width="100%" alt="Tisha Mittal profile banner"/>
 
-<br/>
+\<br/>
 
 # 💜 Hello, I'm Tisha!
 
@@ -11,17 +10,17 @@
 
 *Exploring technology, solving problems, and creating with purpose.*
 
-<a href="https://github.com/Tisha-Mittal">
-<img src="https://img.shields.io/badge/GitHub-Tisha--Mittal-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Always-Learning-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Driven%20by-Curiosity-9370DB?style=for-the-badge"/>
+\<a href="[https://github.com/Tisha-Mittal](https://github.com/Tisha-Mittal)">
+\<img src="[https://img.shields.io/badge/GitHub-Tisha--Mittal-8A2BE2?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Tisha--Mittal-8A2BE2?style=for-the-badge\&logo=github\&logoColor=white)"/>
+\</a>
+\<img src="[https://img.shields.io/badge/Always-Learning-FF69B4?style=for-the-badge](https://img.shields.io/badge/Always-Learning-FF69B4?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Driven%20by-Curiosity-9370DB?style=for-the-badge](https://img.shields.io/badge/Driven%20by-Curiosity-9370DB?style=for-the-badge)"/>
 
-</div>
+\</div>
 
 ---
 
-<h2 align="center">🌷 About Me</h2>
+\<h2 align="center">🌷 About Me\</h2>
 
 I am a Computer Science Engineering student specialising in Artificial Intelligence and Machine Learning, with a keen interest in software development, emerging technologies, and practical problem-solving.
 
@@ -35,74 +34,74 @@ I enjoy exploring new technologies, strengthening my programming fundamentals, a
 
 ---
 
-<h2 align="center">🎨 Technical Skills</h2>
+\<h2 align="center">🎨 Technical Skills\</h2>
 
-<div align="center">
+\<div align="center">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=c,java,python,js&theme=light](https://skillicons.dev/icons?i=c,java,python,js\&theme=light)" />
 
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=html,css,js,react&theme=light](https://skillicons.dev/icons?i=html,css,js,react\&theme=light)" />
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=nodejs&theme=light](https://skillicons.dev/icons?i=nodejs\&theme=light)" />
 
 ### 🗄️ Databases & Backend Services
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=mysql,firebase&theme=light](https://skillicons.dev/icons?i=mysql,firebase\&theme=light)" />
 
 ### ☁️ Cloud & Microsoft Technologies
 
-<img src="https://skillicons.dev/icons?i=azure&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=azure&theme=light](https://skillicons.dev/icons?i=azure\&theme=light)" />
 
 ### 📊 Data Science & Libraries
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=numpy,pandas&theme=light](https://skillicons.dev/icons?i=numpy,pandas\&theme=light)" />
 
 ### 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=git,github,linux,vscode,figma&theme=light](https://skillicons.dev/icons?i=git,github,linux,vscode,figma\&theme=light)" />
 
-</div>
+\</div>
 
 ---
 
-<h2 align="center">🦋 Areas of Interest</h2>
+\<h2 align="center">🦋 Areas of Interest\</h2>
 
-<div align="center">
+\<div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<h3>💜 Artificial Intelligence</h3>
+\<table>
+\<tr>
+\<td align="center" width="50%">
+\<h3>💜 Artificial Intelligence\</h3>
 Exploring Machine Learning, intelligent applications and practical AI solutions.
-</td>
-<td align="center" width="50%">
-<h3>💗 Software Development</h3>
+\</td>
+\<td align="center" width="50%">
+\<h3>💗 Software Development\</h3>
 Building programming foundations and exploring application development.
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<h3>💙 Data Structures & Algorithms</h3>
+\</td>
+\</tr>
+\<tr>
+\<td align="center" width="50%">
+\<h3>💙 Data Structures & Algorithms\</h3>
 Developing logical thinking and efficient problem-solving approaches.
-</td>
-<td align="center" width="50%">
-<h3>💜 Web Development</h3>
+\</td>
+\<td align="center" width="50%">
+\<h3>💜 Web Development\</h3>
 Exploring frontend technologies, React, Node.js and full-stack development.
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
-</div>
+\</div>
 
 ---
 
-<h2 align="center">🌸 Experience & Leadership</h2>
+\<h2 align="center">🌸 Experience & Leadership\</h2>
 
 - **Entrepreneurship:** Founded and manage *Assignment Aisle*, an academic project and assignment venture, with 100+ assignments and projects delivered.
 - **Student Leadership:** Served as School Girls Captain and Sports Captain, contributing to student coordination and school activities.
@@ -111,60 +110,51 @@ Exploring frontend technologies, React, Node.js and full-stack development.
 
 ---
 
-<h2 align="center">📜 Certifications</h2>
+\<h2 align="center">📜 Certifications\</h2>
 
-<div align="center">
+\<div align="center">
 
-| Certification | Platform |
-|:---|:---|
-| ☁️ Azure AI Fundamentals (AI-900) | Microsoft |
-| ☁️ Azure Fundamentals (AZ-900) | Microsoft |
-| ☁️ Azure Data Fundamentals (DP-900) | Microsoft |
-| 🔐 Cybersecurity for Everyone | University of Maryland — Coursera |
-| 🐍 Python Fundamentals | Infosys |
-| 🌐 HTML5 – The Language | Infosys |
+| Certification                       | Platform                          |
+| :---------------------------------- | :-------------------------------- |
+| ☁️ Azure AI Fundamentals (AI-900)   | Microsoft                         |
+| ☁️ Azure Fundamentals (AZ-900)      | Microsoft                         |
+| ☁️ Azure Data Fundamentals (DP-900) | Microsoft                         |
+| 🔐 Cybersecurity for Everyone       | University of Maryland — Coursera |
+| 🐍 Python Fundamentals              | Infosys                           |
+| 🌐 HTML5 – The Language             | Infosys                           |
 
-</div>
+\</div>
 
 ---
 
-<h2 align="center">🌱 Currently Exploring</h2>
+\<h2 align="center">🌱 Currently Exploring\</h2>
 
-<div align="center">
+\<div align="center">
 
-<img src="https://img.shields.io/badge/Java%20%26%20DSA-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-C77DFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+\<img src="[https://img.shields.io/badge/Java%20%26%20DSA-8A2BE2?style=flat-square](https://img.shields.io/badge/Java%20%26%20DSA-8A2BE2?style=flat-square)"/> \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Machine%20Learning-C77DFF?style=flat-square](https://img.shields.io/badge/Machine%20Learning-C77DFF?style=flat-square)"/> \<img src="[https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/React.js-61DAFB?style=flat-square\&logo=react\&logoColor=black)"/> \<img src="[https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)"/> \<img src="[https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)"/>
 
-<br/><br/>
+\<br/>\<br/>
 
 *Learning continuously, experimenting fearlessly, and growing one step at a time.*
 
-</div>
+\</div>
 
 ---
 
-<h2 align="center">💌 Let's Connect</h2>
+\<h2 align="center">💌 Let's Connect\</h2>
 
-<div align="center">
+\<div align="center">
 
 I'm always interested in connecting with fellow developers, exploring new ideas, and collaborating on meaningful technology initiatives.
 
-<br/>
+\<br/>
 
-<a href="https://github.com/Tisha-Mittal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+\<a href="[https://github.com/Tisha-Mittal](https://github.com/Tisha-Mittal)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a>
 
-<br/><br/>
+\<br/>\<br/>
 
 **✨ Curiosity drives innovation. Consistency creates progress. ✨**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,25:FFAFCC,55:C77DFF,80:9D4EDD,100:6A00F4&height=130&section=footer" width="100%" alt="Lavender pink footer banner"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0\:FFC8DD,25\:FFAFCC,55\:C77DFF,80:9D4EDD,100:6A00F4&height=130&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFC8DD,25\:FFAFCC,55\:C77DFF,80:9D4EDD,100:6A00F4\&height=130\&section=footer)" width="100%" alt="Lavender pink footer banner"/>
 
-</div>
+\</div>
